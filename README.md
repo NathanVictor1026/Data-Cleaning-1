@@ -5,15 +5,15 @@
 
 - [TOOLS](#tools)
 
-- [DATA PREPARATION AND CLEANING.](#data-preparation-and-cleaning.)
+- [DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning.)
 
-- [EXPLORATORY DATA ANALYSIS.](#exploratory-data-analysis.)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis.)
 
-- [RESULTS/FINDINGS.](#results/findings.)
+- [RESULTS/FINDINGS](#results/findings.)
 
-- [LIMITATIONS.](#limitations.)
+- [LIMITATIONS](#limitations.)
 
-- [CODE.](#code.)
+- [CODE](#code.)
 
 
 ## PROJECT OVERVIEW
@@ -22,7 +22,8 @@ This data set was initially obtained as a raw data set with errors and missing v
 ## TOOLS
 - MySQL Workbench
 
-## DATA PREPARATION AND CLEANING.
+
+## DATA PREPARATION AND CLEANING
 The following tasks were performed in this stage:
 1. Loading into a schema in MySQL Workbench
 2. Removal of duplicates.
@@ -30,7 +31,8 @@ The following tasks were performed in this stage:
 4. Handling missing and null values.
 5. Removing rows and columns that may not be important in EDA.
 
-## EXPLORATORY DATA ANALYSIS.
+
+## EXPLORATORY DATA ANALYSIS
 This stage involved exploring the data to answer questions such as;
 - What is the span of data collection?
 - What are the peak layoff periods?
@@ -38,17 +40,20 @@ This stage involved exploring the data to answer questions such as;
 - Which countries had the most and least layoffs?
 - Which industry had the most and least layoffs?
 
-## RESULTS/FINDINGS.
+
+## RESULTS/FINDINGS
 Some of the findings are as follows:
 - United States was the country with the most layoffs.
 - Google, the company having the biggest layoff in one go.
 - Retail was the most affected industry with the biggest number of layoffs.
 And more in the Exploratory Data Analysis.
 
-## LIMITATIONS.
+
+## LIMITATIONS
 Original size of the company before layoff was not provided so further analysis and filling null percentage laid off was not possible.
 
-## CODE.
+
+## CODE
 
 ```sql
 -- we are going to perform data cleaning to the layoffs table. 
