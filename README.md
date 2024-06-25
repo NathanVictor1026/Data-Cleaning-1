@@ -1,19 +1,19 @@
 # RECORDS OF LAYOFFS AROUND THE WORLD.
 
 ### Table Of Contents.
-[PROJECT OVERVIEW](#project-overview)
+- [PROJECT OVERVIEW](#project-overview)
 
-[TOOLS](#tools)
+- [TOOLS](#tools)
 
-[DATA PREPARATION AND CLEANING.](#data-preparation-and-cleaning.)
+- [DATA PREPARATION AND CLEANING.](#data-preparation-and-cleaning.)
 
-[EXPLORATORY DATA ANALYSIS.](#exploratory-data-analysis.)
+- [EXPLORATORY DATA ANALYSIS.](#exploratory-data-analysis.)
 
-[RESULTS/FINDINGS.](#results/findings.)
+- [RESULTS/FINDINGS.](#results/findings.)
 
-[LIMITATIONS.](#limitations.)
+- [LIMITATIONS.](#limitations.)
 
-[CODE.](#code.)
+- [CODE.](#code.)
 
 
 ### PROJECT OVERVIEW
