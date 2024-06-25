@@ -29,7 +29,7 @@ The following tasks were performed in this stage:
 2. Removal of duplicates.
 3. Standardisation.
 4. Handling missing and null values.
-5. Removing rows and columns that may not be important in EDA.
+5. Removing rows and columns that may not be important for EDA.
 
 
 ## EXPLORATORY DATA ANALYSIS
