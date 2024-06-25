@@ -5,15 +5,15 @@
 
 - [TOOLS](#tools)
 
-- [DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning.)
+- [DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning)
 
-- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis.)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
-- [RESULTS/FINDINGS](#results/findings.)
+- [FINDINGS](#findings)
 
-- [LIMITATIONS](#limitations.)
+- [LIMITATIONS](#limitations)
 
-- [CODE](#code.)
+- [CODE](#code)
 
 
 ## PROJECT OVERVIEW
@@ -41,7 +41,7 @@ This stage involved exploring the data to answer questions such as;
 - Which industry had the most and least layoffs?
 
 
-## RESULTS/FINDINGS
+## FINDINGS
 Some of the findings are as follows:
 - United States was the country with the most layoffs.
 - Google, the company having the biggest layoff in one go.
