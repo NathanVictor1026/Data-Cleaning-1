@@ -1,6 +1,6 @@
 # RECORDS OF LAYOFFS AROUND THE WORLD.
 
-### Table Of Contents.
+## Table Of Contents.
 - [PROJECT OVERVIEW](#project-overview)
 
 - [TOOLS](#tools)
